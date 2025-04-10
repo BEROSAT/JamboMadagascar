@@ -7,7 +7,7 @@
   "live_url":"https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8",
   "thumbnail":"https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg",
   "categorie":"SPORTS"
-  },
+  }
   "1":{
   "id": "2",
   "name": "TVI AFRICA",
@@ -15,7 +15,7 @@
   "live_url": "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNjE4MTcyNzRf/tviAfrica.jpg",
   "categorie": "SPORTS"
-  },
+  }
   "2":{
   "id": "3",
   "name": "KK TV",
